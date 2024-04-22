@@ -1,0 +1,6 @@
+[submodule "flutter"]
+	path = flutter
+	url = git@github.com:dangttp97/react-native-flutter.git
+[submodule "react_native_example"]
+	path = react_native_example
+	url = git@github.com:dangttp97/react-native-app-example.git
